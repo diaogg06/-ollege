@@ -1,0 +1,38 @@
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 5px;
+
+    color: black;
+    text-decoration: none;
+
+    width: 40px; 
+    height: 40px; 
+    border-radius: 30px;
+    border: 1px solid #bbb;
+}
+
+  
+.flip {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 5px ;
+
+    color: #bbb;
+    background-color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+
+    width: 40px; 
+    height: 40px; 
+    border-radius: 40px;
+    border: none;
+}
